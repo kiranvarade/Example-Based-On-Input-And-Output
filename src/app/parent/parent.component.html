@@ -1,0 +1,11 @@
+<div class="container">
+<div class="parent_container">
+
+  <h3>Parent Component</h3>
+
+  <p>Random No From Child Component: {{randomNumber}}</p>
+  
+  <app-child [nm]="name" (send_no)="onNumberGenerated($event)"></app-child>
+
+</div>
+</div>
