@@ -1,4 +1,6 @@
-##Interaction Between ParentComponent and ChildComponent And Vice versa uisng @input() and @output()
+## Angular: Component interaction with @Input, @Output and EventEmitter.
+
+##  Example Based On Interaction Between ParentComponent and ChildComponent And Vice versa. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
 
